@@ -3,7 +3,6 @@ import React from 'react';
 import { renderToString } from 'react-dom/server';
 import App from './app';
 import template from './template';
-import template2 from './template2';
 
 const server = express();
 

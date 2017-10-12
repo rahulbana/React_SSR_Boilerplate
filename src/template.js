@@ -1,8 +1,8 @@
-export default ({ body, title }) => {
+export default ({ body }) => {
   return `<!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>${title}</title>
+    <title>React SSR Demo</title>
   </head>
   <body>
     <div id="root">${body}</div>

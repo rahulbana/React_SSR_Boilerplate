@@ -6,9 +6,9 @@
     "url": "https://github.com/rahulbana/React_SSR_Boilerplate"
   },
   "scripts": {
-    "start": "cd dist && node server",
+    "server": "cd dist && node server",
+    "client": "node client.js",
     "build": "webpack",
-    "lint": "functionhappy | snazzy"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",

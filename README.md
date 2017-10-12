@@ -1,2 +1,2 @@
-# React SSR Boilerplate-
+# React SSR Boilerplate
 React Server Side Rendering Boilerplate
